@@ -1,6 +1,7 @@
 # Hello world! I'm Henrique 👋
 ## Little tiny bit about me:
 I'm a fullstack developer and I've been programming for roughly a year now. I love sports, logic challenges, and to learn new languages (not just in programming).  
+I know English, Spanish, Portuguese, and a bit of French.
 ## Main stacks:
 React Native | React JS | NodeJS | MongoDB | MySQL | HTML | CSS | Javascript
 ## Favorite quote:

@@ -6,8 +6,8 @@ I know English, Spanish, Portuguese, and a bit of French.
 React Native | React JS | NodeJS | MongoDB | MySQL | HTML | CSS | Javascript
 ## Learning: 
 - Mobile Android development with Kotlin 
-- Cybersecurity
 - Cloud computing
+- Web development
 ## Favorite quote:
 Not to sound like a Nike commercial but, 
 *You miss 100% of the shots that you don't take, so take your shot!*

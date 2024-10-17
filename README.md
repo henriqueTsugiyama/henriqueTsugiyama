@@ -3,14 +3,15 @@
 I love sports, puzzles, and learning new languages (not just in programming).  
 I know English, Spanish, Portuguese, and a bit of French.
 Quarter mile runner on my free time.
+
 ## Main stacks:
-React Native | React JS | NodeJS | MSSQL | MySQL | HTML | CSS | Javascript | PHP
+React Native | React JS | NodeJS | MySQL | HTML | CSS | Javascript | PHP
+
 ## Learning: 
-- Cloud computing
 - Web development
 - PHP & Cake PHP
 - Docker
-- TDD
+
 ## Favorite quote:
 Not to sound like a Nike commercial but, 
 *You miss 100% of the shots that you don't take, so take your shot!*

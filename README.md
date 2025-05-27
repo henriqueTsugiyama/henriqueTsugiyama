@@ -2,19 +2,19 @@
 ## About me:
 I love sports, puzzles, and learning new languages (not just in programming).  
 I know English, Spanish, Portuguese, and a bit of French.
-Quarter mile runner on my free time.
+
 
 ## Main stacks:
-React Native | React JS | NodeJS | MySQL | HTML | CSS | Javascript | PHP
+React Native | React JS | NodeJS | HTML | CSS | Javascript | Typescript
+Python | Flask
+PHP | Ruby | Rails
+MySQL | PostgrSql 
 
-## Learning: 
-- Web development
-- PHP & Cake PHP
-- Docker
+- 🔭 I’m currently working on a project to end famine in Brazil at a company called [Infineat](https://www.infineat.com.br/)
+- 🌱 I’m currently learning how to use AI models to improve productivity and provide automations, mostly with Python
+- ⚡ Fun fact: I run 400 meters on my free time [(me running)](https://youtu.be/eu_RAqP0iXQ?si=cNkBbvA0BNOUZGpq)
 
-## Favorite quote:
-Not to sound like a Nike commercial but, 
-*You miss 100% of the shots that you don't take, so take your shot!*
+
 
 <!--
 **henriqueTsugiyama/henriqueTsugiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

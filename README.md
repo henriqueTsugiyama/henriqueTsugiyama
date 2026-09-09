@@ -1,7 +1,7 @@
 
 ## Henrique Tsugiyama 💻🎆
 **`Software Engineer`**
-- I went on a scholarship to US study Business and Technology and run track.
+- I went on a to US adventure to study and run track.
 - I got my Bachelors at William Woods University in Fulton, MO. 
 - I know English, Spanish, Portuguese, and a bit of French.
 - 🌱 I’m learning how to use AI models to improve productivity and provide automations, mostly with Python
